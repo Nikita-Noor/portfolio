@@ -195,7 +195,7 @@ button img {
   margin-left: 8px;
   vertical-align:middle;
 }
-/* ================= RESET ================= */
+
 
 *{
     margin:0;
@@ -210,7 +210,6 @@ body{
     background:white;
 }
 
-/* ================= NAVBAR ================= */
 
 nav{
     display:flex;
@@ -262,7 +261,6 @@ nav button img{
     height:18px;
 }
 
-/* ================= ABOUT HERO ================= */
 
 .about-hero{
     display:flex;
@@ -375,7 +373,6 @@ nav button img{
     font-weight:600;
 }
 
-/* ================= ACHIEVEMENTS ================= */
 
 .achievement-section{
     display:flex;
@@ -414,7 +411,6 @@ nav button img{
     text-align:center;
 }
 
-/* ================= EDUCATION ================= */
 
 .education-section{
     position:relative;
@@ -484,7 +480,6 @@ nav button img{
     line-height:1.6;
 }
 
-/* ================= SKILLS ================= */
 
 .skills-section{
     text-align:center;
